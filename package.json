@@ -1,12 +1,12 @@
 {
-  "name": "expresslaura",
+  "name": "expresscomics",
   "version": "1.0.0",
   "description": "",
-  "main": "src/app.js",
+  "main": "src/apiComics.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "laura portillo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
