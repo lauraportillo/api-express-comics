@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.static('public'));
 
-app.get('/api/comics', (req, res) => {
+app.get('/api/comic', (req, res) => {
   res.json(comics);
 });
 
